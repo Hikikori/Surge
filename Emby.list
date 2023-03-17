@@ -154,5 +154,7 @@ DOMAIN-SUFFIX,embyplus.club
 # > 流媒体embyhub服务器
 DOMAIN-SUFFIX,emby.ednovas.org
 
+DOMAIN-SUFFIX,emby.speedx.one
+
 # > 流媒体zdz服务器
 DOMAIN-SUFFIX,emby.wtf
