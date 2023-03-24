@@ -158,3 +158,17 @@ DOMAIN-SUFFIX,emby.speedx.one
 
 # > 流媒体zdz服务器
 DOMAIN-SUFFIX,emby.wtf
+
+# > 流媒体mapie服务器
+DOMAIN-SUFFIX,magpie.cyou
+DOMAIN-SUFFIX,emby.jzq.lol
+
+# > 流媒体acemby服务器
+DOMAIN-SUFFIX,acemby.org
+
+# > 流媒体embyplus服务器
+DOMAIN-SUFFIX,embyplus.org  
+
+# > 流媒体nmemby服务器
+DOMAIN-SUFFIX,film.goodisp.org 
+DOMAIN-SUFFIX,film.chinaisp.org 
