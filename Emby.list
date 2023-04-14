@@ -172,3 +172,6 @@ DOMAIN-SUFFIX,embyplus.org
 # > 流媒体nmemby服务器
 DOMAIN-SUFFIX,film.goodisp.org 
 DOMAIN-SUFFIX,film.chinaisp.org 
+
+# > 流媒体orange服务器
+DOMAIN-SUFFIX,embytv.cf
