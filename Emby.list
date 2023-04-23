@@ -168,6 +168,7 @@ DOMAIN-SUFFIX,acemby.org
 
 # > 流媒体embyplus服务器
 DOMAIN-SUFFIX,embyplus.org  
+DOMAIN-SUFFIX,gd.9521732.xyz
 
 # > 流媒体nmemby服务器
 DOMAIN-SUFFIX,film.goodisp.org 
