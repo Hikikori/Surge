@@ -178,3 +178,6 @@ DOMAIN-SUFFIX,film.chinaisp.org
 
 # > 流媒体orange服务器
 DOMAIN-SUFFIX,embytv.cf
+
+# > 流媒体dv服
+DOMAIN-SUFFIX,emby.lzlz.cc
