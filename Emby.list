@@ -91,6 +91,7 @@ DOMAIN,pub3.emby.wtf
 
 # > 流媒体不给看服务器
 DOMAIN-SUFFIX,emby.pro
+DOMAIN-SUFFIX,emby.gtma.top
 
 # > 流媒体熊猫服务器
 DOMAIN,embyclub.com
