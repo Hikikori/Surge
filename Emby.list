@@ -128,6 +128,7 @@ DOMAIN-SUFFIX, 1.loseremby.org
 # > 流媒体Cc服务器
 DOMAIN,cc.ccemby.tk
 DOMAIN-SUFFIX,dl.ccemby.ga
+DOMAIN-SUFFIX,dx2.carryz.net
 
 # > 流媒体Nebula服务器
 DOMAIN,direct.nebula-emby.com
