@@ -165,7 +165,7 @@ DOMAIN-SUFFIX,emby.wtf
 # > 流媒体mapie服务器
 DOMAIN-SUFFIX,magpie.cyou
 DOMAIN-SUFFIX,emby.jzq.lol
-DOMAIN-SUFFIX,magpiecdn
+DOMAIN-SUFFIX,magpie
 
 # > 流媒体acemby服务器
 DOMAIN-SUFFIX,acemby.org
