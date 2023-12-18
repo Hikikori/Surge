@@ -163,7 +163,7 @@ DOMAIN-SUFFIX,emby.speedx.one
 DOMAIN-SUFFIX,emby.wtf
 
 # > 流媒体mapie服务器
-DOMAIN-KEYWORD,magpie
+
 
 # > 流媒体acemby服务器
 DOMAIN-SUFFIX,acemby.org
