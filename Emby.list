@@ -127,7 +127,7 @@ DOMAIN-SUFFIX, 1.loseremby.org
 
 # > 流媒体Cc服务器
 DOMAIN,cc.ccemby.tk
-DOMAIN-SUFFIX,cc.carryz.net
+DOMAIN,cc.carryz.net
 DOMAIN-SUFFIX,dx2.carryz.net
 DOMAIN-SUFFIX,cc.coemn.com
 # > 流媒体Nebula服务器
