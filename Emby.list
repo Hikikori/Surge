@@ -192,8 +192,6 @@ DOMAIN-SUFFIX,emby-play.dicarerhome.com
 
 DOMAIN-SUFFIX,front.gugumedia.link
 
-DOMAIN-SUFFIX,5.78.87.180
-
 DOMAIN-SUFFIX,emby.kim
 
 DOMAIN-SUFFIX,public.emby.ws
@@ -201,7 +199,3 @@ DOMAIN-SUFFIX,public.emby.ws
 DOMAIN-SUFFIX,cf.otv.icu
 
 DOMAIN-SUFFIX,xmsl.org
-
-DOMAIN,cf1.jmsuper
-
-DOMAIN-KEYWORD,magpie
