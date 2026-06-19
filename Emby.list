@@ -164,6 +164,7 @@ DOMAIN-SUFFIX,emby.speedx.one
 
 # > 流媒体zdz服务器
 DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,v1.zdz.plus
 
 # > 流媒体acemby服务器
 DOMAIN-SUFFIX,acemby.org
